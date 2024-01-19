@@ -1,3 +1,7 @@
-# liga-justicia
-Este es el repositorio de mis planes con la Liga de la Justicia
-#Hola mundo
+# Objetivos de la repositorio
+
+Este proyecto se encarga de manejar los planes de la liga de la justicia
+
+
+## Notas
+Pueden hacer lo que quieran...
